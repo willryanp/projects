@@ -4,7 +4,7 @@ email: willryanp@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The Projects of Will Ryan
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://willryanp.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
